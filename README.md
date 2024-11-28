@@ -1,5 +1,5 @@
 
-# 'MATLAB tools for Earth Systems Science'
+# MESSci: MATLAB tools for Earth Systems Science
 
 tags:
   - MATLAB
@@ -11,6 +11,7 @@ tags:
   - wildland fire science
   - geographic information systems
   - natural hazards
+
 authors:
   - name: Benjamin J. Hatchett
     orcid: 0000-0003-1066-3601

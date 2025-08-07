@@ -32,7 +32,7 @@ function warnByCWAnonlin(fileIn,binSteps,cbartitle,wantNum,outputName)
 %%
 % requires:
 % Mapping Toolbox
-% openFigure
+% openFigure.m
 % Maps: usastatehi.shp (states), GUM_adm0.shp (GU), wm713fm9130.shp (PR),
 %       w_05mr24.shp (CWAs), re04oc12.shp (NWS regions)
 %
